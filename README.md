@@ -31,8 +31,11 @@ Linear Regression is a supervised learning algorithm used for predicting a conti
 In the context of rainfall prediction:
 
 **Dependent Variable (Y):** The amount of rainfall we want to predict.
+
 **Independent Variable(s) (X):** Meteorological features like temperature, humidity, wind speed, etc.
+
 **How Linear Regression Works:**
+
 **Line Equation:** Linear Regression models the relationship between the independent variables (X) and the dependent variable (Y) as a linear equation: Y = mX + b, where m is the slope, and b is the intercept.
 
 **Training:** The algorithm learns the values of m and b by minimizing the difference between the predicted values and the actual values in the training data.
